@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8f4b4b6-2d9d-4168-b89d-35ea80ba7534" name="Default Changelist" comment="" />
+    <list default="true" id="b8f4b4b6-2d9d-4168-b89d-35ea80ba7534" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/timkiem/google.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demogit.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +62,7 @@
       <updated>1599466696156</updated>
       <workItem from="1599466697535" duration="2593000" />
       <workItem from="1599494790445" duration="5148000" />
-      <workItem from="1599541651589" duration="2900000" />
+      <workItem from="1599541651589" duration="5881000" />
     </task>
     <servers />
   </component>
